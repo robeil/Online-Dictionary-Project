@@ -3,7 +3,14 @@
 # Project Description :
 This project is designed to be an electronic Dictionary, that can be in any one laptop or cell phone and can access and can use the best out of it.
 # Screenshots :
-
+* Searching the word : king
+![](https://github.com/robeil/Online-Dictionary-Project/blob/main/screenshots/Screen%20Shot%202022-05-17%20at%203.25.49%20PM.png)
+* Searching the word : nice
+![](https://github.com/robeil/Online-Dictionary-Project/blob/main/screenshots/Screen%20Shot%202022-05-17%20at%203.26.20%20PM.png)
+* Searching the word : keen
+![](https://github.com/robeil/Online-Dictionary-Project/blob/main/screenshots/Screen%20Shot%202022-05-17%20at%203.26.47%20PM.png)
+* Searching the word : vacancy
+![](https://github.com/robeil/Online-Dictionary-Project/blob/main/screenshots/Screen%20Shot%202022-05-17%20at%203.28.55%20PM.png)
 
 
 # User Story
