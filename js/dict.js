@@ -11,7 +11,7 @@ $(document).ready(function () {
   //a function that will fire a connection to DB and get tha data, when the lookup button clicked
   function lookupWord() {
     $.ajax({
-      url: "http://localhost:2023/searchingWord",
+      url: "http://localhost:2023/searchWord",
       type: "get",
       data: { term: $("#term").val() },
       dataType: "json",
